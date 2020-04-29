@@ -1,0 +1,42 @@
+<!DOCTYPE HTML PUBLIC "-//IETF//DTD HTML//EN">
+<HTML>
+<HEAD>
+<meta name="GENERATOR" content="Microsoft&reg; HTML Help Workshop 4.1">
+<!-- Sitemap 1.0 -->
+</HEAD><BODY>
+<OBJECT type="text/site properties">
+	<param name="FrameName" value="Welcome">
+	<param name="Window Styles" value="0x800025">
+	<param name="ImageType" value="Folder">
+</OBJECT>
+<UL>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Welcome">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Welcome">
+		<param name="Local" value="help1.htm">
+		<param name="URL" value="Untitled2.htm">
+		<param name="Local" value="Untitled2.htm">
+		<param name="URL" value="Untitled2.htm">
+		</OBJECT>
+	<OBJECT type="text/sitemap">
+		<param name="Merge" value="help1.htm">
+
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="Tabs">
+		<param name="Local" value="help2 Tabs.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="TablesControl">
+		<param name="Local" value="help3 TablesControl.htm">
+		<param name="URL" value="help3 TablesControl.htm">
+		</OBJECT>
+	<LI> <OBJECT type="text/sitemap">
+		<param name="Name" value="VendorsProducts">
+		<param name="Local" value="help4 VendorsProducts.htm">
+		<param name="URL" value="help4 VendorsProducts.htm">
+		</OBJECT>
+</UL>
+</BODY></HTML>
